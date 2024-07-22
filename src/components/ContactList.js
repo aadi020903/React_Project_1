@@ -11,7 +11,7 @@ const ContactList = (props) => {
                     <div>{contact.email}</div>
 
                 </div>
-                <i className="trash alternate outline icon" ></i>
+                {/* <i className="trash alternate outline icon" ></i> */}
             </div>
         );
     });
