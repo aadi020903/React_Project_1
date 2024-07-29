@@ -14,7 +14,13 @@ function App() {
       id: "2",
       name: "Jane Doe",
       email: "janne@gmail.com"
+    },
+    {
+      id: "3",
+      name: "John Smith",
+      email: "johnsmith@gmail.com"
     }
+
   ];
   return (
     <div className="ui container">
